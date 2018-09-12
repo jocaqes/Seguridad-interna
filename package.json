@@ -1,0 +1,19 @@
+{
+  "name": "seguridad-interna",
+  "version": "1.0.0",
+  "description": "Seguridad deteccion de movimiento IT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "restful",
+    "api"
+  ],
+  "author": "Jose Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
